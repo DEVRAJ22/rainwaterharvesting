@@ -1,0 +1,60 @@
+body {
+        background-color:#FFFFFF;
+      }
+
+      h1 {
+        color: #001FFF;
+        font-size: 45px;
+        font-style: normal;
+        text-align: center;
+        font-family: cursive;
+      }
+      h3 {
+        color: #FF8E06;
+        font-size: 20px;
+        text-align: center;
+        font-family: cursive;
+      }
+
+      /*
+      img {
+        background-color: white;
+      }
+
+      */
+
+
+hr {
+        background-color:##ff7373;
+        border-style: double;
+        height: 2px;
+      }
+img {
+   position: relative;
+   left: 450px;
+   height: 300px;
+   width: 500px;
+}
+
+li {
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  background-color: #C2FFA2;
+  margin-top: 20;
+  margin: 10 auto 10 auto;
+  font-family: cursive;
+}
+span {
+  background-color: #FF2A00;
+}
+
+.devraj {
+  position: relative;
+  right: 10px
+}
+h4 {
+  text-align: center;
+}
